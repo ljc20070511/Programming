@@ -1,0 +1,1 @@
+print("One day is one day.")
