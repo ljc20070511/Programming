@@ -1,0 +1,13 @@
+want_to_go = ["Shanghai","Beijing","Tianjin","Xianggang","Aomen"]
+sorted(want_to_go)
+print(want_to_go)
+sorted(want_to_go,reverse=True)
+print(want_to_go)
+want_to_go.reverse()
+print(want_to_go)
+want_to_go.reverse()
+print(want_to_go)
+want_to_go.sort()
+print(want_to_go)
+want_to_go.sort(reverse=True)
+print(want_to_go)

@@ -11,6 +11,7 @@ Guest_list.insert(0,"Dong dong")
 Guest_list.insert(2,"Ji hang")
 Guest_list.append("Ji bang")
 print(Guest_list,",Let's share a supper with sb.")
+print(f"I invited {len(Guest_list)} guests to dinner.")
 
 print("I only two guests can be invited to dinner.")
 Guest_list.pop(0)
