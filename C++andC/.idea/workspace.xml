@@ -29,22 +29,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ca4071c3-1c42-453c-b597-093ce85f8886" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/C_Primer_Plus/Book/ae_platinum.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C_Primer_Plus/Book/ae_platinum.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C_Primer_Plus/备注.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/CandC++.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/editor.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python/.idea/python.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../python/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/Python编程：从入门到实践（第3版）/book/aa_hellow_world.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/Python编程：从入门到实践（第3版）/book/ab_name.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/Python编程：从入门到实践（第3版）/book/ac_full_name.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,50 +76,50 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "C/C++ 文件.aa_first.c (1).executor": "Run",
-    "C/C++ 文件.aa_first.c.executor": "Run",
-    "C/C++ 文件.aa_printf.c.executor": "Run",
-    "C/C++ 文件.ab_fathm_ft.c.executor": "Run",
-    "C/C++ 文件.ab_name_and_address.c.executor": "Run",
-    "C/C++ 文件.ac_ages_or_days.c.executor": "Run",
-    "C/C++ 文件.ac_two_func.c.executor": "Run",
-    "C/C++ 文件.ad_for_he's_a_jolly_good_fellow.c.executor": "Run",
-    "C/C++ 文件.ad_nogood.c.executor": "Run",
-    "C/C++ 文件.ae_antion.c.executor": "Run",
-    "C/C++ 文件.ae_antion.cpp.executor": "Run",
-    "C/C++ 文件.ae_platinum.c.executor": "Run",
-    "C/C++ 文件.af_tose.c.executor": "Run",
-    "C/C++ 文件.ag_smile.c.executor": "Run",
-    "C/C++ 文件.ah_one_two_three.c.executor": "Run",
-    "C/C++ 文件.main.c.executor": "Run",
-    "C/C++ 文件.main.cpp.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.RadMigrateCodeStyle": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.readMode.enableVisualFormatting": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "RunOnceActivity.west.config.association.type.startup.service": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "cf.first.check.clang-format": "false",
-    "cidr.known.project.marker": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "E:/Programming/C++andC",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "org.rust.first.attach.projects": "true",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;C/C++ 文件.aa_first.c (1).executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.aa_first.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.aa_printf.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.ab_fathm_ft.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.ab_name_and_address.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.ac_ages_or_days.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.ac_two_func.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.ad_for_he's_a_jolly_good_fellow.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.ad_nogood.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.ae_antion.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.ae_antion.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.ae_platinum.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.af_tose.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.ag_smile.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.ah_one_two_three.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.main.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.main.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.RadMigrateCodeStyle&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.west.config.association.type.startup.service&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Programming/C++andC&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;org.rust.first.attach.projects&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="C/C++ 文件.ae_platinum.c">
     <configuration name="practice" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="practice" TARGET_NAME="practice" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="practice" RUN_TARGET_NAME="practice">
       <method v="2">
@@ -210,6 +198,7 @@
       <workItem from="1770947145078" duration="2546000" />
       <workItem from="1770953483523" duration="314000" />
       <workItem from="1770986543821" duration="1511000" />
+      <workItem from="1771157194782" duration="12000" />
     </task>
     <servers />
   </component>
